@@ -16,6 +16,10 @@
 
 ### Hash maps
 Store the frequency of an element or a boolean to signify that the element is in the array. 
+
+### Use a set
+
+### Sort
 ## Sample problems
 
 ### 1. Two Sum
@@ -41,3 +45,9 @@ Optimal Solution: O(n) ST
 Optimal Solution: O(1) ST
 
 ### 128. Longest Consecutive Subsequence
+
+### 94. Binary Tree Inorder Traversal
+
+### 144. Binary Tree Preorder Traversal
+
+### 145. Binary Tree Postorder Traversal
