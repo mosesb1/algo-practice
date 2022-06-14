@@ -51,3 +51,11 @@ Optimal Solution: O(1) ST
 ### 144. Binary Tree Preorder Traversal
 
 ### 145. Binary Tree Postorder Traversal
+
+### 20. Valid Parenthesis
+
+### 125. Valid Palindrome
+
+### 167. Two Sum II - Input Array is Sorted
+
+### 15. 3sum
