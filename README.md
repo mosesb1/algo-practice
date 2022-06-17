@@ -59,3 +59,15 @@ Optimal Solution: O(1) ST
 ### 167. Two Sum II - Input Array is Sorted
 
 ### 15. 3sum
+
+### 5. Longest Palindromic Substring
+
+### 11. Container with most water
+
+### 121. Best Time to Buy and Sell Stock
+
+### 200. Number of Islands
+
+### 118. Pascal's Triangle
+
+### 39. Combination Sum
