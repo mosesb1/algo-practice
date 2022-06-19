@@ -52,6 +52,9 @@ Optimal Solution O(n) ST
 Optimal Solution: O(n) ST
 
 ### 238. Product of Array Except Self
+- initialize an array of products of the same length as the input, fill with ones
+- perform one left pass and one right pass, and track a left product and right product
+- in each pass, multiply the products array at that index by the corresponding product, then multiply the product by the element at that index in the input array
 
 Optimal Solution: O(n) ST
 
