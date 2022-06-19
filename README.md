@@ -23,7 +23,8 @@ Store the frequency of an element or a boolean to signify that the element is in
 ## Sample problems
 
 ### 1. Two Sum
-
+- Use hash map to store index of each value as you encounter them
+- if the target - current value is already stored, return the indexes of both
 Optimal Solution: O(n) ST
 ### 49. Group Anagrams
 
