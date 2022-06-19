@@ -46,6 +46,8 @@ Optimal Solution O(n) ST
 Optimal Solution O(n) ST
 
 ### 217. Contains Duplicate
+- use hash map to store every element in the array as you traverse from left to right
+- if the element has already been stored, return true
 
 Optimal Solution: O(n) ST
 
