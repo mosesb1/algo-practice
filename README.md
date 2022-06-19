@@ -21,7 +21,10 @@ Store the frequency of an element or a boolean to signify that the element is in
 
 ### Sort
 ## Sample problems
-
+- create a mapping of each letter to a number from 0 to 25
+- for each string in array, create an array of length 26, each index corresponding to the letter mapped above, and store the counts in those indexes.
+- use the above array as a key in a results dictionary, each key should map to an array which will contain anagrams
+- return the values of the results dictionary 
 ### 1. Two Sum
 - Use hash map to store index of each value as you encounter them
 - if the target - current value is already stored, return the indexes of both
