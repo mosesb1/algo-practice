@@ -39,6 +39,11 @@ Optimal Solution: O(n) ST
 - traverse the buckets array from right to left, adding each element from the nested array to an output array before moving on
 Optimal Solution O(n) ST
 ### 242. Valid Anagram
+- return false if the strings are not equal in length
+- store the frequency of each character in one of the strings in a hash map
+- traverse the second string, decreasing the count of that letter by one in the hash map
+- return false if the letter does not exist as a key in the hash map or if the frequency is 0 before decrementing
+Optimal Solution O(n) ST
 
 ### 217. Contains Duplicate
 
