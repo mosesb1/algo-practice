@@ -59,6 +59,7 @@ Optimal Solution: O(n) ST
 Optimal Solution: O(n) ST
 
 ### 36. Valid Sudoku
+- traverse each row, column, and 3x3 box to ensure no duplicates
 
 Optimal Solution: O(1) ST
 
